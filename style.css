@@ -1,0 +1,194 @@
+html,body{
+
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    line-height: 1.8em;
+    color: #35449b;
+    
+}
+
+.page1{
+    background-image: url(images/mumbai.jpg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.page1{
+    background-image: url(images/mumbai.jpg);
+    min-height: 100%;
+}
+.page2{
+    background-image: url(images/taj.jpg);
+min-height: 600px;
+}
+.page3{
+    background-image: url(images/jodhpur.jpg);
+    min-height: 500px;
+}
+.page4{
+    background-image: url(images/kerela.jpg);
+    min-height: 500px;
+}
+
+
+.page1, .page2, .page3, .page4{
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.page5{
+    background-image: url(/images/travel.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 400px;
+   
+}
+
+.text1{
+    position: absolute;
+    top: 40%;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 35px;
+    letter-spacing: 7px;
+}
+.text2{
+    position: absolute;
+    top: 40%;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 35px;
+    letter-spacing: 7px;
+    
+}
+.text3{
+    position: absolute;
+    top: 40%;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 35px;
+    letter-spacing: 7px;
+}
+.text4{
+    position: absolute;
+    top: 40%;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 35px;
+    letter-spacing: 7px;
+}
+.text{
+    position: absolute;
+    top: 40%;
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 35px;
+    letter-spacing: 7px;
+}
+
+.textBg{
+background-color: rgb(244, 234, 90);
+padding: 20px 20px;
+border-radius: 5px;
+}
+.textBg1{
+background-color: rgb(214, 241, 237);
+opacity: 0.5;
+padding: 20px 20px;
+border-radius: 5px;
+}
+.textBg2{
+background-color: rgb(214, 241, 237);
+opacity: 0.5;
+padding: 20px 20px;
+border-radius: 5px;
+}
+.textBg3{
+    
+background-color: rgb(89, 142, 90);
+opacity: 0.7;
+padding: 20px 20px;
+border-radius: 5px;
+}
+
+.section{
+    padding: 50px 80px;
+    text-align: center;
+
+}
+
+.bg-color{
+    background-color: rgb(128, 188, 184);
+    color: rgb(3, 3, 2);
+    
+}
+
+.bg-taj{
+    background-color: rgb(251, 247, 247);
+    color: rgb(10, 10, 10);
+    
+}
+
+.bg-jdp{
+    background-color: rgb(73, 161, 254);
+    color: rgb(10, 10, 10);
+}
+
+.bg-god{
+    background-color: rgb(78, 186, 96);
+    color: rgb(10, 10, 10);
+}
+
+.footer {
+    background-color: #323030;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+   
+   
+   
+}
+.footer ul {
+    padding: 0;
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+.footer ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.footer ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer ul li a:hover {
+    text-decoration: underline;
+}
+
